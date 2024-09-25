@@ -1,5 +1,6 @@
 html{
     background-color: black;
+    text-align: center;
 }
 
 h1 {
@@ -8,6 +9,7 @@ h1 {
     font-weight: normal;
     color: white;
     text-align: center;
+    padding-top: 20px;
 }
 a {
     color: aquamarine;
@@ -27,4 +29,13 @@ p {
 }
 .copyright {
     text-align: right;
+}
+.image-1 {
+    display: block;
+    text-align: center;
+}
+.image-2 {
+    display: block;
+    text-align: center;
+    padding-top: 20px;
 }
